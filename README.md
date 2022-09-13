@@ -5,7 +5,7 @@ Projet de Gestion Avancée de Cabinet Dentaire côté Back end;
 
 -Télécharger et installer Spring tools4(https://spring.io/tools);
 
--Créer une base de données GACD avec mysql;
+-Créer une base de données db_gacd avec mysql;
 
 ##Que faire après avoir télécharger et ouvert le projet dans Spring tools:
 
